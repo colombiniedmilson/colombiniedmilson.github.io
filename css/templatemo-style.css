@@ -376,7 +376,8 @@ opacity: 0.7;
 #testimonial {
 	display: flex;
 	height: 780px;
-	background-color: #f7c552;
+	background-image: url(../img/blog-bg.jpg);
+	background-color: transparent;
 	text-align: center;
 	padding: 50px 0px;
 }
